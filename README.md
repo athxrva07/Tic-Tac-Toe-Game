@@ -1,2 +1,2 @@
 # XO-Game
-Simple XO game created using HTML, CSS and JavaScript
+Simple Tic Tac Toe game created using HTML, CSS and JavaScript
